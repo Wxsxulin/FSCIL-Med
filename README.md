@@ -6,7 +6,7 @@ This work formulates the problem with long-tailed base classes and proposes a tw
 ---
 
 ## 📌 Overview
-![Framework Overview](Schematic Diagram of the Unified Framework.png)
+![Framework Overview](Framework.png)
 
 ---
 
